@@ -1,1 +1,7 @@
 ### Github File Push Ignore
+
+index/out
+index/output
+index/conv.bat
+index/conv.py
+index/ffmpeg.exe
