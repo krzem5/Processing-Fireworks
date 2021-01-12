@@ -10,7 +10,7 @@ void setup() {
   fullScreen(P2D);
   cannons=new ArrayList<Cannon>();
   particles=new ArrayList<Particle>();
-  load_cannons(loadJSONArray("data-002.json"));
+  load_cannons(loadJSONArray("data-001.json"));
   frameRate(60);
   rectMode(CENTER);
   time=0;
