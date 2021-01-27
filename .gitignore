@@ -1,5 +1,5 @@
-index/out
-index/output
-index/conv.bat
-index/conv.py
-index/ffmpeg.exe
+main/out
+main/output
+main/conv.bat
+main/conv.py
+main/ffmpeg.exe
