@@ -16,7 +16,7 @@ void setup() {
   time=0;
 }
 void draw() {
-  background(0, 200);
+  background(0);
   for (Cannon c : cannons) {
     c.update();
     c.draw();
