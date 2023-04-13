@@ -3,6 +3,7 @@ class Cannon{
 	ArrayList<Firework> fl;
 
 
+
 	Cannon(JSONObject json){
 		this.fl=new ArrayList<Firework>();
 		this.pos=new PVector(json.getJSONObject("pos").getInt("x"),json.getJSONObject("pos").getInt("y"));
